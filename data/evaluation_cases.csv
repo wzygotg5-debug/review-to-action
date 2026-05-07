@@ -1,0 +1,7 @@
+case_id,product_type,business_goal,main_issue_pattern,why_this_case_matters
+Case 1,Moisturizer,Product improvement,"Irritation, redness, greasy texture, packaging leakage","Tests whether the app can separate formula concerns from texture and packaging issues."
+Case 2,Sunscreen,Product improvement,"White cast, sticky feel, strong smell","Tests whether the app can group different sensory complaints into useful product issue categories."
+Case 3,Acne Treatment,Safety-like complaint triage,"Burning, redness, breakouts, too harsh","Tests whether the app flags safety-like complaints for human review instead of making a final safety judgment."
+Case 4,Cleanser,Product improvement,"Dryness, tight skin feeling, not suitable for sensitive skin","Tests whether the app can identify repeated skin-feel complaints."
+Case 5,Serum,Marketing claim review,"Unclear effect, fragrance complaints, expectation mismatch","Tests whether the app can detect mismatch between customer expectations and product claims."
+Case 6,Moisturizer,Customer support prioritization,"Short vague reviews, emotional language, mixed feedback","Tests whether the app avoids overclaiming when evidence is weak."
