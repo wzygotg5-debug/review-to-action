@@ -159,7 +159,11 @@ Click "Run GenAI Triage" to generate the product issue triage report.
     |   |-- evaluation_results.md
     |
     |-- screenshots/
-    |   |-- app_snapshot.png
+    |   |-- app_input_data.png
+    |   |-- app_baseline_and_genai_start.png
+    |   |-- app_issue_table.png
+    |   |-- app_risk_actions.png
+    |   |-- app_memo_checklist.png
     |
     |-- baseline/
         |-- keyword_rating_baseline.py
