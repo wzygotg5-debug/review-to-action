@@ -173,3 +173,18 @@ Click "Run GenAI Triage" to generate the product issue triage report.
 This tool should not be used as a medical, clinical, safety, recall, or regulatory decision system. Customer reviews are subjective and may contain exaggeration, sarcasm, spam, duplicated comments, or missing context.
 
 The app is designed to support first-pass product issue triage. A human product manager should review the original comments before making product changes. Any safety-like complaint should be escalated to a qualified human reviewer before action is taken.
+
+## Screenshots
+
+### App Interface and Review Data
+
+![App input data](screenshots/app_input_data.png)
+
+### GenAI Issue Triage Table
+
+![Issue triage table](screenshots/app_issue_table.png)
+
+### Manager-Ready Memo and Human Review Checklist
+
+![Manager memo and human review checklist](screenshots/app_memo_checklist.png)
+
