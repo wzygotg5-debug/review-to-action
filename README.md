@@ -176,15 +176,22 @@ The app is designed to support first-pass product issue triage. A human product 
 
 ## Screenshots
 
-### App Interface and Review Data
+### 1. App Interface and Review Data
 
 ![App input data](screenshots/app_input_data.png)
 
-### GenAI Issue Triage Table
+### 2. Baseline and GenAI Start
+
+![Baseline and GenAI start](screenshots/app_baseline_and_genai_start.png)
+
+### 3. GenAI Issue Triage Table
 
 ![Issue triage table](screenshots/app_issue_table.png)
 
-### Manager-Ready Memo and Human Review Checklist
+### 4. Risk Flags and Recommended Actions
+
+![Risk flags and recommended actions](screenshots/app_risk_actions.png)
+
+### 5. Manager-Ready Memo and Human Review Checklist
 
 ![Manager memo and human review checklist](screenshots/app_memo_checklist.png)
-
